@@ -1,2 +1,1 @@
-MAGMA.jl
-========
+# MAGMA
