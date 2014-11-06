@@ -3,8 +3,7 @@ module MAGMA
 export device_reset,
        MagmaVector, MagmaMatrix, get,
        axpy!, dot,
-       gemv!,
-       geev!
+       gemv!
 
 import Base: length,size,dot
 
